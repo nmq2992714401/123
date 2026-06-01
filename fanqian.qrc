@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/style.qss</file>
+        <file>img/fubiao.png</file>
+    </qresource>
+</RCC>
